@@ -28,9 +28,6 @@ I am Harun Ibrisevic, a **Data Analyst** and **Python Developer** passionate abo
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
---- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide=html,css&exclude_repo=YourRepoName&layout=compact&theme=radical)
-
 
 ---
 
