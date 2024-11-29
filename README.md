@@ -37,16 +37,9 @@ I am Harun Ibrisevic, a **Data Analyst** and **Python Developer** passionate abo
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect with Me
-- 📧 Email: harun.car@gmail.com(mailto:your.email@example.com)  
-- 💼 LinkedIn: ba.linkedin.com/in/harunibrisevic(#)  
+- 📧 Email: harun.car@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/harunibrisevic/
 
 ---
 
