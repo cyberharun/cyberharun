@@ -29,11 +29,7 @@ I am Harun Ibrisevic, a **Data Analyst** and **Python Developer** passionate abo
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 --- 
- ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide=html,css&exclude_repo=YourRepoName&layout=compact&theme=radical)
 
 
 ---
