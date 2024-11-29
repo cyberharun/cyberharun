@@ -6,7 +6,7 @@ I am Harun Ibrisevic, a **Data Analyst** and **Python Developer** passionate abo
 
 ## 📖 About Me
 - 🎓 **Education:** Bachelor of Computer Science Engineering, European University "Kallos," Tuzla.  
-- 🖥️ **Specializations:** Data analysis, machine learning, and e-commerce platform development.  
+- 🖥️ **Specializations:** Data analysis, machine learning, data science.  
 - 🔍 **Interests:** Cryptocurrency enthusiast with over 5 years of market and blockchain exploration.  
 - 🏋️‍♂️ **Hobbies:** Bodybuilding and hiking.  
 
@@ -25,18 +25,15 @@ I am Harun Ibrisevic, a **Data Analyst** and **Python Developer** passionate abo
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-
-## 💼 Professional Experience
-- 🌐 **E-commerce Development:** Built comprehensive platforms with features such as carts, user management, email verification, and PayPal integration.  
-- 📊 **Data Analysis Intern:** Leveraged Python libraries and SQL for insightful data analysis.  
+--- 
  
 
 ---
 
 ## 📚 Education & Certifications
-- **The Complete SQL Bootcamp:** Gained expertise in database management and data analysis.  
-- **Python for DS & ML:** Studied Pandas, Numpy, and Matplotlib under Ardit Sulce.  
+- **The Complete SQL Bootcamp:** Gained expertise in database management.  
+- **Python Django: Build an E-commerce Store - 2024** : Skills: Django · AJAX · Payment Integration
+- **Python Mega Course** : Skills: Python (Programming Language) · APIs · SQL · GUIs · Flask · Django · Bootstrap (Framework) · Object-Oriented Programming (OOP) · Data Analysis · Pandas · NumPy · Matplotlib
 
 ---
 
@@ -48,9 +45,8 @@ I am Harun Ibrisevic, a **Data Analyst** and **Python Developer** passionate abo
 ---
 
 ## 🔗 Connect with Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 🌐 Portfolio: [Your Portfolio URL](#)  
+- 📧 Email: harun.car@gmail.com(mailto:your.email@example.com)  
+- 💼 LinkedIn: ba.linkedin.com/in/harunibrisevic(#)  
 
 ---
 
