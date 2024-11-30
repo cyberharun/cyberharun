@@ -38,7 +38,7 @@ I am Harun Ibrisevic, a **Data Analyst** and **Python Developer** passionate abo
 ---
 
 ## 🔗 Connect with Me
-- 📧 Email: harun.car@gmail.com 
+- 📧 Email: ibrisevic.harun.99@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/harunibrisevic/
 - Mobile : +387 61 260 605
 
