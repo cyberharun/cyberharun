@@ -44,4 +44,4 @@ I am Harun Ibrisevic, a **Data Analyst** and **Python Developer** passionate abo
 
 ---
 
-Thanks for visiting my profile! 😊 Feel free to reach out for collaborations, projects, or tech discussions.
+Thanks for visiting my profile! 😊 Feel free to reach out for collaborations, projects, or tech discussions. See ya!
